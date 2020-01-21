@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapolin/js-fiddles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapolin/js-fiddles/issues"
+  },
+  "homepage": "https://github.com/mapolin/js-fiddles#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
